@@ -1,0 +1,9 @@
+picamera2
+opencv-python
+numpy<2
+joblib
+insightface
+onnxruntime
+openpyxl
+Cython
+cmake
